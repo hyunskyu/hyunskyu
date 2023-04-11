@@ -4,9 +4,9 @@
  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hyunskyu@gmail.com)](mailto:hyunskyu@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kyuhyun-sung-b7894b188/)](https://www.linkedin.com/in/kyuhyun-sung-b7894b188/)  [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://clean-dragon.tistory.com//)](https://clean-dragon.tistory.com//)
 	
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hyunskyu)](https://solved.ac/hyunskyu/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hyunskyu)](https://solved.ac/hyunskyu/)   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyunskyu&show_icons=true&theme=radical)
 
 ### Work Experience
 - Korea Institute of Science and Technology (2023.03 ~)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyunskyu&show_icons=true&theme=radical)
+
