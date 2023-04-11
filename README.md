@@ -7,6 +7,6 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hyunskyu)](https://solved.ac/hyunskyu/)   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyunskyu&show_icons=true&theme=radical)
 
 ### Work Experience
-- Korea Institute of Science and Technology (2023.03 ~)
+- Korea Institute of Science and Technology(KIST) (2023.03 ~)
 
 
