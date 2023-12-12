@@ -13,6 +13,6 @@ I'm interested in SLAM, deep learning, robotics.
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyunskyu&show_icons=true&theme=radical) [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hyunskyu)](https://solved.ac/hyunskyu/)   
 
 ### Work Experience
-- Korea Institute of Science and Technology(KIST) (2023.03 ~)
+- Korea Institute of Science and Technology(KIST) (2023.03 ~) --Intern researcher
 
 
